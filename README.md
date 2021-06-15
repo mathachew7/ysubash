@@ -2,7 +2,6 @@
 
 ## Student/Developer/Entrepreneur/Athlete!
 
-- 🔭 Currently learning flutter to build food delivery app - [Jaadu Online Food Delivery App]
 - 🌱 Learning everything I can 🤣
 - 👯 Love to collaborate with other developers for new projects
 - 🥅 2021 Goals: Contribute more to Open Source projects, business growth & self improvement
